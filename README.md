@@ -10,17 +10,17 @@ This repository contains an analysis of employee salaries across different job t
 ## Dataset
 The dataset includes the following columns:
 
-work_year: The year the data was collected.
-experience_level: The experience level of the employee (SE: Senior, MI: Mid-level, EN: Entry-level, EX: Executive).
-employment_type: The type of employment (FT: Full-time, PT: Part-time, CT: Contract, FL: Freelance).
-job_title: The job title of the employee.
-salary: The salary of the employee.
-salary_currency: The currency of the salary (USD, EUR, GBP, etc.).
-salary_in_usd: The salary converted to USD.
-employee_residence: The country of residence of the employee.
-remote_ratio: The percentage of remote work (100, 50, 0).
-company_location: The location of the company.
-company_size: The size of the company (M: Medium, L: Large, S: Small).
+* work_year: The year the data was collected.
+* experience_level: The experience level of the employee (SE: Senior, MI: Mid-level, EN: Entry-level, EX: Executive).
+* employment_type: The type of employment (FT: Full-time, PT: Part-time, CT: Contract, FL: Freelance).
+* job_title: The job title of the employee.
+* salary: The salary of the employee.
+* salary_currency: The currency of the salary (USD, EUR, GBP, etc.).
+* salary_in_usd: The salary converted to USD.
+* employee_residence: The country of residence of the employee.
+* remote_ratio: The percentage of remote work (100, 50, 0).
+* company_location: The location of the company.
+* company_size: The size of the company (M: Medium, L: Large, S: Small).
 
 ## Analysis
 1. Salary Trends Across Job Titles and Experience Levels
